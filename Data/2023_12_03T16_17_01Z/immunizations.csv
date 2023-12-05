@@ -1,3 +1,4 @@
+Date,Patient_id,Encounter_id,Code
 1996-11-29T15:38:46Z,159f2940-8ca2-65a1-bba4-b30a84806852,58e5bba4-d92c-056e-a60b-07951e190416,Influenza  seasonal  injectable  preservative free
 1997-02-14T15:38:46Z,159f2940-8ca2-65a1-bba4-b30a84806852,1408fb83-a386-2f25-7ebd-5a2e261118ae,Influenza  seasonal  injectable  preservative free
 1998-02-20T15:38:46Z,159f2940-8ca2-65a1-bba4-b30a84806852,bd7ee776-b0d8-f195-6388-66650287e447,Influenza  seasonal  injectable  preservative free

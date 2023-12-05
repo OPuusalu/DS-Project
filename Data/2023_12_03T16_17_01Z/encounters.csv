@@ -1,3 +1,4 @@
+Id,Encounter_Start,Encounter_End,Patient,Encounter_class,Reason,Description
 0b4c5460-a2f9-747c-d004-ed5eb95453df,1956-10-08T15:38:46Z,1956-10-08T15:53:46Z,159f2940-8ca2-65a1-bba4-b30a84806852,ambulatory,Encounter for symptom,Childhood asthma
 f0af82f1-c0d6-03c5-4161-081353521564,1970-09-18T15:38:46Z,1970-09-18T16:22:02Z,159f2940-8ca2-65a1-bba4-b30a84806852,wellness,General examination of patient (procedure),
 15468936-201b-0d2a-a416-75b4efb9a0d9,1973-10-05T15:38:46Z,1973-10-05T16:34:12Z,159f2940-8ca2-65a1-bba4-b30a84806852,wellness,General examination of patient (procedure),

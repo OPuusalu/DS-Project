@@ -1,3 +1,4 @@
+Plan_id,CarePlan_Start,CarePlan_End,Patient_id,Encounter_id,Plan,Reason
 2cff7f27-2ac7-e26d-fe98-e862b4e197dd,18/07/2002,,f57a77b1-8990-1c66-fbb1-06a27340de59,7aa05895-178b-a677-0f9c-2b4985fffed3,Diabetes self management plan,Prediabetes
 74e7e9ff-caf2-3d92-3183-13a3096e6795,31/05/2007,,f57a77b1-8990-1c66-fbb1-06a27340de59,bb2f14d9-8e97-7cb8-3996-c57fa2d20a72,Hyperlipidemia clinical management plan,Hyperlipidemia
 629aeae5-333f-56a8-d08e-c73a25afcbbd,28/01/2011,,f57a77b1-8990-1c66-fbb1-06a27340de59,40213027-5dce-665a-64b5-8866a8224185,Discharge care plan (record artifact),

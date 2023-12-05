@@ -1,3 +1,4 @@
+Plan_id,CarePlan_Start,CarePlan_End,Patient_id,Encounter_id,Plan,Reason
 88858ce3-f05d-0731-bd96-25541316c260,08/10/1956,,159f2940-8ca2-65a1-bba4-b30a84806852,0b4c5460-a2f9-747c-d004-ed5eb95453df,Asthma self management,Childhood asthma
 7e759202-abb5-d94c-66ec-7f7bd7f41676,05/10/1973,,159f2940-8ca2-65a1-bba4-b30a84806852,15468936-201b-0d2a-a416-75b4efb9a0d9,Diabetes self management plan,Prediabetes
 3e06daf7-998a-3206-1c9d-2ddb94784d39,26/11/2002,05/12/2002,159f2940-8ca2-65a1-bba4-b30a84806852,204c5620-c742-08dd-2573-63e34bef619a,Respiratory therapy,

@@ -1,4 +1,4 @@
-01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Allergy to substance (finding),allergy,environment,,,,
+Start,End,Patient_id,Encounter_id,,Type,Category,Reaction1,Severity1,Reaction2,Severity2
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Mold (organism),allergy,environment,Allergic skin rash,MILD,,
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,House dust mite (organism),allergy,environment,,,,
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
@@ -6,23 +6,23 @@
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Eggs (edible) (substance),allergy,food,,,,
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
-03/04/1967,,c2060791-4361-6d73-9bda-397d7f04ccb2,20a462c9-7551-21c8-a422-1c8c0326f8fe,Allergy to substance (finding),allergy,environment,,,,
+01/09/1967,,c2060791-4361-6d73-9bda-397d7f04ccb2,20a462c9-7551-21c8-a422-1c8c0326f8fe,Allergy to substance (finding),allergy,environment,,,,
 03/04/1967,,c2060791-4361-6d73-9bda-397d7f04ccb2,20a462c9-7551-21c8-a422-1c8c0326f8fe,Mold (organism),allergy,environment,Nose running,MILD,,
 03/04/1967,,c2060791-4361-6d73-9bda-397d7f04ccb2,20a462c9-7551-21c8-a422-1c8c0326f8fe,Wheat (substance),allergy,food,,,,
-20/05/1958,,4d7d85da-bc5e-9af7-cd1f-3141f6592e20,319d18aa-2ecc-6489-5d9b-e7d17b12b716,Allergy to substance (finding),allergy,environment,,,,
-10/12/1962,,01a472d6-9947-3e98-4bf3-6f7f11f2a304,f26e8a0f-ac87-310c-2ac1-b208ff52ec33,Allergy to substance (finding),allergy,environment,,,,
+03/04/1967,,4d7d85da-bc5e-9af7-cd1f-3141f6592e20,319d18aa-2ecc-6489-5d9b-e7d17b12b716,Allergy to substance (finding),allergy,environment,,,,
+20/05/1958,,01a472d6-9947-3e98-4bf3-6f7f11f2a304,f26e8a0f-ac87-310c-2ac1-b208ff52ec33,Allergy to substance (finding),allergy,environment,,,,
 10/12/1962,,01a472d6-9947-3e98-4bf3-6f7f11f2a304,f26e8a0f-ac87-310c-2ac1-b208ff52ec33,Mold (organism),allergy,environment,Allergic skin rash,MILD,Sneezing,MILD
 10/12/1962,,01a472d6-9947-3e98-4bf3-6f7f11f2a304,f26e8a0f-ac87-310c-2ac1-b208ff52ec33,Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
 10/12/1962,,01a472d6-9947-3e98-4bf3-6f7f11f2a304,f26e8a0f-ac87-310c-2ac1-b208ff52ec33,Wheat (substance),allergy,food,,,,
-31/08/1953,,8214ccf9-69cb-4c63-cf51-a14691931dd9,d9698f9c-5982-dcf5-57a1-93689caeb13a,Allergy to substance (finding),allergy,environment,,,,
+10/12/1962,,8214ccf9-69cb-4c63-cf51-a14691931dd9,d9698f9c-5982-dcf5-57a1-93689caeb13a,Allergy to substance (finding),allergy,environment,,,,
 31/08/1953,,8214ccf9-69cb-4c63-cf51-a14691931dd9,d9698f9c-5982-dcf5-57a1-93689caeb13a,Mold (organism),allergy,environment,Allergic skin rash,MILD,,
 31/08/1953,,8214ccf9-69cb-4c63-cf51-a14691931dd9,d9698f9c-5982-dcf5-57a1-93689caeb13a,Lisinopril,intolerance,medication,Cough (finding),MODERATE,,
 31/08/1953,,8214ccf9-69cb-4c63-cf51-a14691931dd9,d9698f9c-5982-dcf5-57a1-93689caeb13a,Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
-02/06/1980,,e3af8697-622a-ac38-d944-d8db05c80e60,20df6ad5-367f-f345-bb6f-da8ce5147957,Allergy to substance (finding),allergy,environment,,,,
+31/08/1953,,e3af8697-622a-ac38-d944-d8db05c80e60,20df6ad5-367f-f345-bb6f-da8ce5147957,Allergy to substance (finding),allergy,environment,,,,
 02/06/1980,,e3af8697-622a-ac38-d944-d8db05c80e60,20df6ad5-367f-f345-bb6f-da8ce5147957,Mold (organism),allergy,environment,,,,
 02/06/1980,,e3af8697-622a-ac38-d944-d8db05c80e60,20df6ad5-367f-f345-bb6f-da8ce5147957,Grass pollen (substance),allergy,environment,,,,
 02/06/1980,,e3af8697-622a-ac38-d944-d8db05c80e60,20df6ad5-367f-f345-bb6f-da8ce5147957,Ibuprofen,allergy,medication,Itching (finding),MODERATE,,
-17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Allergy to substance (finding),allergy,environment,,,,
+02/06/1980,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Allergy to substance (finding),allergy,environment,,,,
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Mold (organism),allergy,environment,Allergic skin rash,MILD,,
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,House dust mite (organism),allergy,environment,,,,
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Animal dander (substance),allergy,environment,Wheal (finding),MILD,,
@@ -32,48 +32,48 @@
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Soy bean,allergy,food,Finding of vomiting (finding),MODERATE,,
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Wheat (substance),allergy,food,,,,
 17/02/1953,,09d7c991-b0d6-180a-5fb6-731a5cc61a6b,52fa0458-9a2a-25ea-5273-4104c52ebaca,Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
-17/05/1964,,ed98535e-d0b3-dad6-7c17-f4b904bb59d9,15d6a0f1-56fd-552e-32a9-987544efaa63,Allergy to substance (finding),allergy,environment,,,,
+17/02/1953,,ed98535e-d0b3-dad6-7c17-f4b904bb59d9,15d6a0f1-56fd-552e-32a9-987544efaa63,Allergy to substance (finding),allergy,environment,,,,
 17/05/1964,,ed98535e-d0b3-dad6-7c17-f4b904bb59d9,15d6a0f1-56fd-552e-32a9-987544efaa63,Mold (organism),allergy,environment,,,,
-06/10/1962,,3c49a9e0-c2f3-6b46-9a68-0110b9a5c525,d45b2702-806b-d28a-9390-a069b3abf716,Allergy to substance (finding),allergy,environment,,,,
+17/05/1964,,3c49a9e0-c2f3-6b46-9a68-0110b9a5c525,d45b2702-806b-d28a-9390-a069b3abf716,Allergy to substance (finding),allergy,environment,,,,
 06/10/1962,,3c49a9e0-c2f3-6b46-9a68-0110b9a5c525,d45b2702-806b-d28a-9390-a069b3abf716,Soy bean,allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
-20/08/1965,,5d1ab972-6620-133c-2b60-15fb3e490f17,efadb185-23c8-5f38-dd34-a1f083b481af,Allergy to substance (finding),allergy,environment,,,,
-21/03/1971,,ecd9cf09-bb65-a00b-b742-66f4237f0125,d61ebdcf-53f3-c2c0-768a-e4a3d92507ad,Allergy to substance (finding),allergy,environment,,,,
+06/10/1962,,5d1ab972-6620-133c-2b60-15fb3e490f17,efadb185-23c8-5f38-dd34-a1f083b481af,Allergy to substance (finding),allergy,environment,,,,
+20/08/1965,,ecd9cf09-bb65-a00b-b742-66f4237f0125,d61ebdcf-53f3-c2c0-768a-e4a3d92507ad,Allergy to substance (finding),allergy,environment,,,,
 21/03/1971,,ecd9cf09-bb65-a00b-b742-66f4237f0125,d61ebdcf-53f3-c2c0-768a-e4a3d92507ad,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Cough (finding),MODERATE
-06/04/1961,,a1284ee2-e900-3e16-da09-4e9368f7536d,b20f5215-1be3-aa4e-4805-087cee37b53d,Allergy to substance (finding),allergy,environment,,,,
+21/03/1971,,a1284ee2-e900-3e16-da09-4e9368f7536d,b20f5215-1be3-aa4e-4805-087cee37b53d,Allergy to substance (finding),allergy,environment,,,,
 06/04/1961,,a1284ee2-e900-3e16-da09-4e9368f7536d,b20f5215-1be3-aa4e-4805-087cee37b53d,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
 06/04/1961,,a1284ee2-e900-3e16-da09-4e9368f7536d,b20f5215-1be3-aa4e-4805-087cee37b53d,Wheat (substance),allergy,food,,,,
-07/08/1949,,54b99c12-139f-e737-dcbc-15a6c9a55279,c0f9dcf0-b916-53f5-e14f-05e6c9c7eff6,Allergy to substance (finding),allergy,environment,,,,
+06/04/1961,,54b99c12-139f-e737-dcbc-15a6c9a55279,c0f9dcf0-b916-53f5-e14f-05e6c9c7eff6,Allergy to substance (finding),allergy,environment,,,,
 07/08/1949,,54b99c12-139f-e737-dcbc-15a6c9a55279,c0f9dcf0-b916-53f5-e14f-05e6c9c7eff6,Lisinopril,intolerance,medication,,,,
 07/08/1949,,54b99c12-139f-e737-dcbc-15a6c9a55279,c0f9dcf0-b916-53f5-e14f-05e6c9c7eff6,Aspirin,allergy,medication,,,,
 07/08/1949,,54b99c12-139f-e737-dcbc-15a6c9a55279,c0f9dcf0-b916-53f5-e14f-05e6c9c7eff6,Eggs (edible) (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
-30/08/1965,,92991451-9a10-ed58-8fee-28be94112a09,8c3eb6ff-40bf-9373-145b-52e95815505e,Allergy to substance (finding),allergy,environment,,,,
+07/08/1949,,92991451-9a10-ed58-8fee-28be94112a09,8c3eb6ff-40bf-9373-145b-52e95815505e,Allergy to substance (finding),allergy,environment,,,,
 30/08/1965,,92991451-9a10-ed58-8fee-28be94112a09,8c3eb6ff-40bf-9373-145b-52e95815505e,Peanut (substance),allergy,food,Wheal (finding),MODERATE,Finding of vomiting (finding),MILD
-10/05/1942,,7c79d157-8872-7a77-9d49-3b7011c84673,c8e6f9ab-e140-9740-27e0-cdd399c65b00,Allergy to substance (finding),allergy,environment,,,,
+30/08/1965,,7c79d157-8872-7a77-9d49-3b7011c84673,c8e6f9ab-e140-9740-27e0-cdd399c65b00,Allergy to substance (finding),allergy,environment,,,,
 10/05/1942,,7c79d157-8872-7a77-9d49-3b7011c84673,c8e6f9ab-e140-9740-27e0-cdd399c65b00,Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Eruption of skin (disorder),MODERATE
-31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Allergy to substance (finding),allergy,environment,,,,
+10/05/1942,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Allergy to substance (finding),allergy,environment,,,,
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Latex (substance),allergy,environment,Dyspnea (finding),MODERATE,Allergic angioedema (disorder),MODERATE
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Bee venom (substance),allergy,environment,,,,
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Mold (organism),allergy,environment,Nose running,MILD,,
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,House dust mite (organism),allergy,environment,,,,
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
 31/07/1966,,00b6650e-1841-b16a-69c0-b616d44efd59,765fc5d1-e816-0ac0-ccda-4d744015488a,Eggs (edible) (substance),allergy,food,,,,
-13/08/1971,,78d33d74-7142-30ac-2b01-6bea04d05c5e,b6ee0d90-9e7e-c8d7-5701-46a5fc4b7cc3,Allergy to substance (finding),allergy,environment,,,,
+31/07/1966,,78d33d74-7142-30ac-2b01-6bea04d05c5e,b6ee0d90-9e7e-c8d7-5701-46a5fc4b7cc3,Allergy to substance (finding),allergy,environment,,,,
 13/08/1971,,78d33d74-7142-30ac-2b01-6bea04d05c5e,b6ee0d90-9e7e-c8d7-5701-46a5fc4b7cc3,Mold (organism),allergy,environment,,,,
 13/08/1971,,78d33d74-7142-30ac-2b01-6bea04d05c5e,b6ee0d90-9e7e-c8d7-5701-46a5fc4b7cc3,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Cough (finding),MODERATE
 13/08/1971,,78d33d74-7142-30ac-2b01-6bea04d05c5e,b6ee0d90-9e7e-c8d7-5701-46a5fc4b7cc3,Eggs (edible) (substance),allergy,food,,,,
-02/06/1962,,983a3e0c-bace-90ae-330e-a3f99cbbecec,5fbe6fac-abf4-1cd1-416f-29759979767d,Allergy to substance (finding),allergy,environment,,,,
-01/10/1993,,f102fa6b-ddf9-165e-f3b1-f5f20d3e8645,81839b2e-fe47-50ea-ea77-5098efcbd8c3,Allergy to substance (finding),allergy,environment,,,,
+13/08/1971,,983a3e0c-bace-90ae-330e-a3f99cbbecec,5fbe6fac-abf4-1cd1-416f-29759979767d,Allergy to substance (finding),allergy,environment,,,,
+02/06/1962,,f102fa6b-ddf9-165e-f3b1-f5f20d3e8645,81839b2e-fe47-50ea-ea77-5098efcbd8c3,Allergy to substance (finding),allergy,environment,,,,
 01/10/1993,,f102fa6b-ddf9-165e-f3b1-f5f20d3e8645,81839b2e-fe47-50ea-ea77-5098efcbd8c3,Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,,
-26/12/1948,,53d4c531-97cc-097e-9e09-b6c6a48904a4,e5e3ed44-c8a9-fe7b-e56c-db6e2b46457f,Allergy to substance (finding),allergy,environment,,,,
+01/10/1993,,53d4c531-97cc-097e-9e09-b6c6a48904a4,e5e3ed44-c8a9-fe7b-e56c-db6e2b46457f,Allergy to substance (finding),allergy,environment,,,,
 26/12/1948,,53d4c531-97cc-097e-9e09-b6c6a48904a4,e5e3ed44-c8a9-fe7b-e56c-db6e2b46457f,Sulfamethoxazole / Trimethoprim,allergy,medication,,,,
 26/12/1948,,53d4c531-97cc-097e-9e09-b6c6a48904a4,e5e3ed44-c8a9-fe7b-e56c-db6e2b46457f,Peanut (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MILD
-08/01/1953,,feb3950c-bc3c-8c64-263f-86781072cdcf,c678540e-d180-06cb-c75a-27f55086d7c1,Allergy to substance (finding),allergy,environment,,,,
+26/12/1948,,feb3950c-bc3c-8c64-263f-86781072cdcf,c678540e-d180-06cb-c75a-27f55086d7c1,Allergy to substance (finding),allergy,environment,,,,
 08/01/1953,,feb3950c-bc3c-8c64-263f-86781072cdcf,c678540e-d180-06cb-c75a-27f55086d7c1,Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Eruption of skin (disorder),MODERATE
-09/04/1998,,2a91e1c8-d658-9e32-c3b0-3c8f437eb187,bc618890-56a6-7721-2869-9d3c2159600d,Allergy to substance (finding),allergy,environment,,,,
+08/01/1953,,2a91e1c8-d658-9e32-c3b0-3c8f437eb187,bc618890-56a6-7721-2869-9d3c2159600d,Allergy to substance (finding),allergy,environment,,,,
 09/04/1998,,2a91e1c8-d658-9e32-c3b0-3c8f437eb187,bc618890-56a6-7721-2869-9d3c2159600d,Lisinopril,intolerance,medication,Cough (finding),MODERATE,,
-22/01/1994,,29da66e8-421f-8e78-ef3d-08bcf2bf3cd2,83ba2d53-6ec7-fdec-3543-7ac8e6b4f910,Allergy to substance (finding),allergy,environment,,,,
+09/04/1998,,29da66e8-421f-8e78-ef3d-08bcf2bf3cd2,83ba2d53-6ec7-fdec-3543-7ac8e6b4f910,Allergy to substance (finding),allergy,environment,,,,
 22/01/1994,,29da66e8-421f-8e78-ef3d-08bcf2bf3cd2,83ba2d53-6ec7-fdec-3543-7ac8e6b4f910,Mold (organism),allergy,environment,,,,
-30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Allergy to substance (finding),allergy,environment,,,,
+22/01/1994,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Allergy to substance (finding),allergy,environment,,,,
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Bee venom (substance),allergy,environment,,,,
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Mold (organism),allergy,environment,Allergic skin rash,MILD,Sneezing,MILD
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,House dust mite (organism),allergy,environment,,,,
@@ -81,9 +81,9 @@
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Grass pollen (substance),allergy,environment,,,,
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Tree pollen (substance),allergy,environment,,,,
 30/06/1962,,082a1da2-a0cb-1116-ee56-4450b0a93bde,b2eac54e-fe77-9f29-2e21-ae9d4b00eb7a,Sulfamethoxazole / Trimethoprim,allergy,medication,Wheal (finding),MODERATE,Eruption of skin (disorder),MODERATE
-06/06/1960,,2483347f-b019-b7f8-4925-14b35555671b,72e53cf8-2758-2043-76e2-d3f4b86c2b0f,Allergy to substance (finding),allergy,environment,,,,
+30/06/1962,,2483347f-b019-b7f8-4925-14b35555671b,72e53cf8-2758-2043-76e2-d3f4b86c2b0f,Allergy to substance (finding),allergy,environment,,,,
 06/06/1960,,2483347f-b019-b7f8-4925-14b35555671b,72e53cf8-2758-2043-76e2-d3f4b86c2b0f,Soy bean,allergy,food,Diarrhea (finding),MILD,,
-14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Allergy to substance (finding),allergy,environment,,,,
+06/06/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Allergy to substance (finding),allergy,environment,,,,
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Latex (substance),allergy,environment,Wheal (finding),MILD,,
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Mold (organism),allergy,environment,Allergic skin rash,MILD,Wheezing,MILD
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,House dust mite (organism),allergy,environment,,,,
@@ -93,9 +93,9 @@
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Wheat (substance),allergy,food,,,,
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
 14/09/1960,,4a62a23a-ef49-1d26-cba6-f77d4aa18a3f,4a0f06e7-4370-aba9-41e5-7715a0c163e7,Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Eruption of skin (disorder),MODERATE
-26/04/1955,,a256afdb-718c-c1da-57ab-dc6c64435bf9,7b3b62fe-653b-6346-7545-17ce40f9e771,Allergy to substance (finding),allergy,environment,,,,
+14/09/1960,,a256afdb-718c-c1da-57ab-dc6c64435bf9,7b3b62fe-653b-6346-7545-17ce40f9e771,Allergy to substance (finding),allergy,environment,,,,
 26/04/1955,,a256afdb-718c-c1da-57ab-dc6c64435bf9,7b3b62fe-653b-6346-7545-17ce40f9e771,Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Allergic angioedema (disorder),MODERATE
-16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Allergy to substance (finding),allergy,environment,,,,
+26/04/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Allergy to substance (finding),allergy,environment,,,,
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Latex (substance),allergy,environment,Wheal (finding),MILD,,
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Bee venom (substance),allergy,environment,,,,
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Mold (organism),allergy,environment,Allergic skin rash,MILD,,
@@ -107,3 +107,4 @@
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
 16/06/1955,,3541415d-86a0-39ca-0d88-040bc98c5d44,7f8ecefc-e803-2992-5930-2e71c3c0e3db,Peanut (substance),allergy,food,Eruption of skin (disorder),MILD,,
+16/06/1955,,,,,,,,,,
