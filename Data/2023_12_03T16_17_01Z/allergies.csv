@@ -1,4 +1,4 @@
-Start,End,Patient_id,Encounter_id,,Type,Category,Reaction1,Severity1,Reaction2,Severity2
+Start,End,Patient_id,Encounter_id,Description,Type,Category,Reaction1,Severity1,Reaction2,Severity2
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Mold (organism),allergy,environment,Allergic skin rash,MILD,,
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,House dust mite (organism),allergy,environment,,,,
 01/09/1967,,4c448008-1bf3-460e-b8bc-492eebdfa95b,a7b2549f-2db2-003d-da58-e6f831006d66,Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD

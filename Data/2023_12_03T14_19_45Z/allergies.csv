@@ -1,4 +1,4 @@
-Start,End,Patient_id,Encounter_id,,Type,Category,Reaction1,Severity1,Reaction2,Severity2
+Start,End,Patient_id,Encounter_id,Description,Type,Category,Reaction1,Severity1,Reaction2,Severity2
 29/11/1963,,46281552-1aa8-7cc8-462c-6a3ee0609099,b3a09b56-4a0b-4691-4bbc-3effffefde9d,Grass pollen (substance),allergy,environment,Rhinoconjunctivitis (disorder),,,
 29/11/1963,,46281552-1aa8-7cc8-462c-6a3ee0609099,b3a09b56-4a0b-4691-4bbc-3effffefde9d,Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
 29/11/1963,,53bdf14e-b1d6-2852-b0cf-77b9df861c6e,c9861895-2b8c-8e15-c3f0-806f5dad5ad1,Allergy to substance (finding),allergy,environment,,,,
