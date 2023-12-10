@@ -15,7 +15,7 @@ The main goal of this project was to predict, based on given synthesized data, w
 
 ## Contents
 
-- `data`: This directory contains all the data used in this project.
+- `Data`: This directory contains all the data used in this project.
 - `Main.ipynb`: Jupyter Notebook contains the Final code which results will be on the poster.
 - `Secondary.ipynb`: Secondary Jupyter Notebook since we couldn't modify one file at the same time.
 - `E8_report.pdf`: This is the homework report.
